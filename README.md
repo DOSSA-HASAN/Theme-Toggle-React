@@ -12,3 +12,7 @@ This React application demonstrates how to implement theme toggling using the Co
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
+
+## LIVE DEMO
+
+[**LIVE DEMO**](https://react-themetoggle.netlify.app/)
